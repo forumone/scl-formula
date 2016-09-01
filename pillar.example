@@ -1,0 +1,4 @@
+# A simple list of SCL packages to install
+scl_packages:
+  - devtoolset-3-gcc
+  - devtoolset-3-gcc-c++
